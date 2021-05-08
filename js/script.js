@@ -15,5 +15,5 @@ $( "#socials" ).click(function() {
   //alert("Socials... angeklickt.");
   $("#mehr anzeigen").text("Hier finden Sie unsere Social Media Kanäle, über die Sie uns, das Team des Hogwarts Minecraft Projekts jederzeit bei Fragen erreichen können.");
   $("#Socials").hide();
-})
+});
 
