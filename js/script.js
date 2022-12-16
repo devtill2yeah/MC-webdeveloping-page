@@ -1,4 +1,5 @@
 
+
 $( "#mehr Erfahren" ).click(function() {
   //alert("Mehr erfahren... angeklickt.");
   $("#mehr anzeigen").text(".");
