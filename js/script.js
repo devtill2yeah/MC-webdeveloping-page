@@ -1,6 +1,5 @@
 
 
-
 $( "#mehr Erfahren" ).click(function() {
   //alert("Mehr erfahren... angeklickt.");
   $("#mehr anzeigen").text(".");
@@ -18,5 +17,4 @@ $( "#socials" ).click(function() {
   $("#mehr anzeigen").text("Hier finden Sie unsere Social Media Kanäle, über die Sie uns, das Team des Hogwarts Minecraft Projekts jederzeit bei Fragen erreichen können.");
   $("#Socials").hide();
 })
-
 
